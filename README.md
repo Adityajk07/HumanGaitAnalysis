@@ -38,13 +38,6 @@ This project classifies human gait as either **Good Gait** or **Bad Gait** using
 ## 📊 Evaluation
 
 Model was trained and validated in Colab using an 80/20 train-test split.
-
-Metrics reported:
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-
 ---
 
 ## 🔒 Notes
